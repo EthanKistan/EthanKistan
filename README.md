@@ -1,6 +1,6 @@
 # Hi, I'm Ethan Kistan
 
-Software developer working in C# and .NET. I build backend APIs, databases and the desktop apps that use them.
+Software developer working in C#, .NET and Kotlin. I build backends and the desktop and Android apps that use them.
 
 **Portfolio:** [ethankistan.github.io](https://ethankistan.github.io) · **Email:** ethankistan25@gmail.com
 
@@ -21,12 +21,24 @@ My part:
 
 [Case study](https://github.com/EthanKistan/sacks-packaging-lms) · [Presentation video](https://youtu.be/2Im0VTIoqD8)
 
+### MyCircle
+
+A native Android app for finding local hobby groups and organising meetups. Built in a team of four; I was the UI developer.
+
+- Built the interface in Kotlin and Jetpack Compose: 12 screens, the navigation graph, the theme and the shared components.
+- Defined the repository interface the screens read from, so teammates could replace mock data with the live API without changing the UI.
+- Added English, Afrikaans, isiZulu and isiXhosa.
+
+Screenshots are on [my portfolio](https://ethankistan.github.io/#work).
+
 ## Tech stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)

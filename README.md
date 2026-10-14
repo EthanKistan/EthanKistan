@@ -2,6 +2,8 @@
 
 Software developer working in C#, .NET and Kotlin. I build backends and the desktop and Android apps that use them.
 
+Final-year student, Bachelor of Computer and Information Sciences in Application Development (The IIE at Emeris), completing 2026.
+
 **Portfolio:** [ethankistan.github.io](https://ethankistan.github.io) · **Email:** ethankistan25@gmail.com
 
 ## Featured project

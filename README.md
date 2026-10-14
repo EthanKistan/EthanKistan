@@ -23,7 +23,7 @@ My part:
 
 [Case study](https://github.com/EthanKistan/sacks-packaging-lms) · [Presentation video](https://youtu.be/2Im0VTIoqD8)
 
-### MyCircle
+### [MyCircle](https://github.com/EthanKistan/mycircle)
 
 A native Android app for finding local hobby groups and organising meetups. Built in a team of four; I was the UI developer.
 
@@ -31,7 +31,7 @@ A native Android app for finding local hobby groups and organising meetups. Buil
 - Defined the repository interface the screens read from, so teammates could replace mock data with the live API without changing the UI.
 - Added English, Afrikaans, isiZulu and isiXhosa.
 
-Screenshots are on [my portfolio](https://ethankistan.github.io/#work).
+[Case study](https://github.com/EthanKistan/mycircle) · [Demo video](https://youtu.be/yUldSx-1WgI)
 
 ## Tech stack
 

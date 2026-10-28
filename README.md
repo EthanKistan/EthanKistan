@@ -22,7 +22,6 @@ My part:
 - Integrated live fleet tracking from the Cartrack API on Google Maps.
 - Added JWT sign-in and per-screen permissions enforced on every request.
 - Shipped Velopack auto-updates with delta packages and a tag-driven release pipeline.
-- Authored 125 of the 227 commits on the main branch.
 
 [Case study](https://github.com/EthanKistan/sacks-packaging-lms) · [Presentation video](https://youtu.be/2Im0VTIoqD8)
 

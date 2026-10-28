@@ -17,6 +17,7 @@ A logistics management system for a Durban packaging manufacturer, live on Micro
 My part:
 
 - Led the team: planned the project, assigned work and made the key technical and design decisions.
+- Built the Distribution Plan, Logistics and Messaging screens.
 - Designed and built the ASP.NET Core API and EF Core data layer, and migrated six areas of the app onto it.
 - Integrated live fleet tracking from the Cartrack API on Google Maps.
 - Added JWT sign-in and per-screen permissions enforced on every request.

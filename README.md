@@ -10,16 +10,18 @@ Final-year student, Bachelor of Computer and Information Sciences in Application
 
 ### [Sacks Packaging LMS](https://github.com/EthanKistan/sacks-packaging-lms)
 
-A logistics management system for a Durban packaging manufacturer, live on Microsoft Azure. It replaces spreadsheet planning and WhatsApp status updates with one desktop app for planning, dispatch, live tracking and proof of delivery. Built in a team of six.
+A logistics management system for a Durban packaging manufacturer, live on Microsoft Azure. It replaces spreadsheet planning and WhatsApp status updates with one desktop app for planning, dispatch, live tracking and proof of delivery. I lead the team of six.
 
 [![Live tracking screen](https://raw.githubusercontent.com/EthanKistan/sacks-packaging-lms/main/screenshots/tracking.png)](https://github.com/EthanKistan/sacks-packaging-lms)
 
 My part:
 
+- Led the team: planned the project, assigned work and made the key technical and design decisions.
 - Designed and built the ASP.NET Core API and EF Core data layer, and migrated six areas of the app onto it.
-- Integrated live fleet tracking from the Cartrack API on an OpenStreetMap map.
+- Integrated live fleet tracking from the Cartrack API on Google Maps.
 - Added JWT sign-in and per-screen permissions enforced on every request.
-- Authored 59 of the 105 commits on the main branch.
+- Shipped Velopack auto-updates with delta packages and a tag-driven release pipeline.
+- Authored 125 of the 227 commits on the main branch.
 
 [Case study](https://github.com/EthanKistan/sacks-packaging-lms) · [Presentation video](https://youtu.be/2Im0VTIoqD8)
 
